@@ -1,0 +1,10 @@
+An HTML file is a webpage coded in HTML that can be displayed in a web browser. It is used to format text, tables, images, and other content that is displayed on a webpage. HTML files are widely used on the web as most pages within static websites have an ".html" extension.
+
+More Information
+Screenshot of a .html file in Adobe Dreamweaver CC 2017
+
+HTML file open in Adobe Dreamweaver CC 2017
+
+HTML files are saved in a standard text format and consists of tags used to define the structure of a webpage. The files can be opened and edited with a basic text editor but are typically opened by source code editors that come with features that make it easier for developers to code.
+
+HTML source code is parsed by a web browser and is typically not seen by the user. If you want to view the HTML of a webpage, select "View Source" from the web browser's View menu.
